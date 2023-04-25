@@ -1,2 +1,2 @@
-# shecodeprotfoliopractice
+# portfoliopractice
 Created with CodeSandbox
